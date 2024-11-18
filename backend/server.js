@@ -33,7 +33,7 @@ app.use(cookieParser());
 // CORS setup
 const corsOptions = {
 	origin: [
-		"https://socialritesh-client-git-main-riteshupates-projects.vercel.app/"
+		"http://socialritesh-client.vercel.app/"
 	],
 	credentials: true,
 };
